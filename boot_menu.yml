@@ -1,5 +1,5 @@
 ublue_variants:
-  - label: ublue-os/startingpoint
+  - label: superphenotype/bazzite-deck_custom
     ks: /kickstart/ublue-os.ks
     flavors:
-      - label: startingpoint
+      - label: Bazzite-deck_Custom
